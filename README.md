@@ -2,7 +2,7 @@
 - 👀 I’m interested in python , c++ and web front end developing.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on web front end.
-- 📫 How to reach me ... you can follow me on my linkedin profile.(www.linkedin.com/in/taimoor-hashim)
+- 📫 How to reach me ... you can follow me on my linkedin profile.(www.linkedin.com/in/taimoor-hashim-20325b30a)
 taimoor-hashim-20325b30a
 
 
