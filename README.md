@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TaimoorHashim
-- 👀 I’m interested in python , c++ and web front end developing.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on web front end.
+- 👀 I’m interested in python , c++ and Full Stack web developer.
+- 🌱 I’m currently learning to integrate AI in websites.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me ... you can follow me on my linkedin profile.(www.linkedin.com/in/taimoor-hashim-20325b30a)
 taimoor-hashim-20325b30a
 
