@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TaimoorHashim
-- 👀 I’m interested in python , c++ and Full Stack web developer.
+- 👀 I’m am a Web Backend developer.
 - 🌱 I’m currently learning to integrate AI in websites.
-- 💞️ I’m looking to collaborate on web development.
+- 💞️ I’m looking to collaborate in web development.
 - 📫 How to reach me ... you can follow me on my linkedin profile.(www.linkedin.com/in/taimoor-hashim-20325b30a)
 taimoor-hashim-20325b30a
 
